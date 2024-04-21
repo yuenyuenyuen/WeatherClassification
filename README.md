@@ -1,5 +1,5 @@
 # Dataset
-Before run the train.py and test_consistency.py, please down the dataset from https://drive.google.com/file/d/1Ut4c2uarAT1-G3aMRR4EuG2P2QJe59X_/view?usp=sharing and put them into the directory.
+Before run the train.py and test_consistency.py, please down the dataset from [[Dataset]](https://drive.google.com/file/d/1Ut4c2uarAT1-G3aMRR4EuG2P2QJe59X_/view?usp=sharing) and put them into the directory.
 
 # CLIP
 
