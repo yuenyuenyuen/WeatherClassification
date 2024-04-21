@@ -1,3 +1,6 @@
+# Dataset
+Before run the train.py and test_consistency.py, please down the dataset from https://drive.google.com/file/d/1Ut4c2uarAT1-G3aMRR4EuG2P2QJe59X_/view?usp=sharing and put them into the directory.
+
 # CLIP
 
 [[Blog]](https://openai.com/blog/clip/) [[Paper]](https://arxiv.org/abs/2103.00020) [[Model Card]](model-card.md) [[Colab]](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb)
